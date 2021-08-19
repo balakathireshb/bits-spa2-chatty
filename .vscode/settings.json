@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a24fff53-ddea-4662-b162-562eabfdcdd0/resourceGroups/bala/providers/Microsoft.Web/sites/bala-bits-chatty",
+    "appService.deploySubpath": "."
+}
