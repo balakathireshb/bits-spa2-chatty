@@ -90,10 +90,10 @@ function Footer(props) {
               Balakathiresh B - 2019AB04047
             </Typography>
             <Typography style={{ color: '#8f9296' }} paragraph>
-              Alkesh - 2019ABxxxxx
+              Alkesh - 2019AD04082
             </Typography>
             <Typography style={{ color: '#8f9296' }} paragraph>
-              Harsh - 2019AB04047
+              Harsh - 2019AD04086
             </Typography>
           </Grid>
         </Grid>
